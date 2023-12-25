@@ -44,5 +44,5 @@ int main() {
     // Access the private data using public member functions (getters)
     cout << "Name: " << person.getName() << endl; // No need for std:: prefix
     cout << "Age: " << person.getAge() << endl; // No need for std:: prefix
-
+return 0;
 }
